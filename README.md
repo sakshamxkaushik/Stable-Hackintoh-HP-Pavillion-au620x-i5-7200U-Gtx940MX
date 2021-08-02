@@ -1,0 +1,3 @@
+# Stable-Hackintoh-HP-Pavillion-au620x-i5-7200U-Gtx940MX
+Hackintosh Big Sur on Hp Pavillion Specs i5 7200U Intel HD620 Gtx940MX(disabled in hackintosh) Everything is Working Except Facetime and iMessages AppStore and iCloud Workss... WIFI + Blutooth Works Audio + Mic Works Only When Device Properties are set as iMac18,1 (boot-args alcid=11 ) HDMI and HDMI Audio Works tooo. Every freakinn damm thing works.  I'm attaching my efi but MAKE SURE YOU EDIT IT AND USE YOURE OWN CREATED SMBIOS(SerialNo,ROM,MLB etccc...)
+Make Sure You addd your own SMBIOS(Product ID Serial No and other Details in config.plist file
